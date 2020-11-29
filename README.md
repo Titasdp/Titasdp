@@ -3,6 +3,7 @@
 Helcome to my github profile, don't be shy, make yourself comfortable and explore. 
 
 <div>
+ 
  - 🙋 my name is Tiago Alexandre Delgado De Pina also known by  Titas. 
  
  - 🎓 I’m currently  studding "Technology and information system for web", currently on my 3rd year, at ESMAD, a school located in the 
